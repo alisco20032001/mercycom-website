@@ -1,0 +1,60 @@
+body{
+  margin: 12px;
+  font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+  background-color: #f4cbcb;
+  text-justify: distribute-all-lines;
+  margin-top: 20px; 
+  color: blue;
+
+}
+
+.container{
+  background-color: #631818;
+  box-shadow: 0 0 20px rgba(0,0,0,.2);
+  margin: 0 auto;
+  margin-top: 10px;
+  margin-bottom: 20px;
+  text-align: left;
+  max-width: 600px;
+  border-radius: 5px;
+  padding: 20px;}
+
+  .more{
+  display: flex;
+  justify-content:  left;
+  align-items: left;
+  margin-bottom: 20px;
+}
+
+.application{
+  padding: 10px;
+  border: none;
+  outline: none;
+  font-size:  18px;
+  width: 60%;
+  color: brown;
+}
+
+.courses{
+  background-color: #e3e5e7;
+  font-style: italic;
+  color: blue;
+  padding: 10px 20px;
+  border-radius: 5px;
+  font-size: 18px;
+  cursor: pointer;
+  outline: none;
+  transition: background-color .3s ease;
+  text-wrap: 12px;
+}
+
+
+.list {
+  padding: 20px;
+  background-color: #f1f1f1;
+  margin: 10px;
+  flex: 1;
+  border-radius: 5px;
+  text-align: left;
+
+}t
